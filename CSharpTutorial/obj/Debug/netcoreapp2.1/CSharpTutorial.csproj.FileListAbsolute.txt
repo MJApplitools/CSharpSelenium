@@ -1,0 +1,11 @@
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp2.1/CSharpTutorial.deps.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp2.1/CSharpTutorial.runtimeconfig.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp2.1/CSharpTutorial.runtimeconfig.dev.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp2.1/CSharpTutorial.dll
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp2.1/CSharpTutorial.pdb
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.csprojAssemblyReference.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.csproj.CoreCompileInputs.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.AssemblyInfoInputs.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.AssemblyInfo.cs
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.dll
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp2.1/CSharpTutorial.pdb
